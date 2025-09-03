@@ -16,17 +16,17 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'   # 18 is also fine
+          node-version: '18'
 
       - name: Install Dependencies
         run: npm install --legacy-peer-deps
 
       - name: Build
-        run: npm run build
+        run: CI=false npm run build   # CRACO/CRA build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build   # Vite -> change to ./dist
+          publish_dir: ./build          # (Vite would be ./dist)
