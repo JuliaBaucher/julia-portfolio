@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/julia-portfolio/static/css/main.47fcba4b.css",
+    "main.js": "/julia-portfolio/static/js/main.66c0bbf4.js",
+    "index.html": "/julia-portfolio/index.html",
+    "main.47fcba4b.css.map": "/julia-portfolio/static/css/main.47fcba4b.css.map",
+    "main.66c0bbf4.js.map": "/julia-portfolio/static/js/main.66c0bbf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47fcba4b.css",
+    "static/js/main.66c0bbf4.js"
+  ]
+}
