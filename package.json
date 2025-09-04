@@ -2,7 +2,7 @@
   "name": "julia-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://juliabaucher.github.io/julia-portfolio",
+  "homepage": "https://juliabaucher.github.io/lab",
   "dependencies": {
     "@hookform/resolvers": "^5.0.1",
     "@radix-ui/react-accordion": "^1.2.8",
@@ -91,3 +91,4 @@
   }
 
 }
+
