@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/julia-portfolio/static/css/main.47fcba4b.css",
-    "main.js": "/julia-portfolio/static/js/main.97a6aee4.js",
-    "index.html": "/julia-portfolio/index.html",
-    "main.47fcba4b.css.map": "/julia-portfolio/static/css/main.47fcba4b.css.map",
-    "main.97a6aee4.js.map": "/julia-portfolio/static/js/main.97a6aee4.js.map"
+    "main.css": "/lab/static/css/main.47fcba4b.css",
+    "main.js": "/lab/static/js/main.97a6aee4.js",
+    "index.html": "/lab/index.html",
+    "main.47fcba4b.css.map": "/lab/static/css/main.47fcba4b.css.map",
+    "main.97a6aee4.js.map": "/lab/static/js/main.97a6aee4.js.map"
   },
   "entrypoints": [
     "static/css/main.47fcba4b.css",
